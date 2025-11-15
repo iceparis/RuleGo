@@ -1,0 +1,4 @@
+# > Outlook
+DOMAIN,outlook.office365.com
+DOMAIN,outlook.live.com
+DOMAIN,outlook.office.com
