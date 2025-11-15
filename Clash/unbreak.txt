@@ -1,0 +1,7 @@
+# ! Fix Google Ads in search results
+DOMAIN,www.googleadservices.com
+DOMAIN,ad.doubleclick.net
+# ! Fix Reuters video loading
+DOMAIN,static.adsafeprotected.com
+DOMAIN,pixel.adsafeprotected.com
+DOMAIN,www.google-analytics.com
