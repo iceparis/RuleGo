@@ -49,7 +49,9 @@ IP-CIDR,91.108.20.0/22,no-resolve
 # >> Other
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apnews.com
 DOMAIN-SUFFIX,aspnetcdn.com
@@ -73,6 +75,12 @@ DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,hcaptcha.com
@@ -104,6 +112,9 @@ DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,images.arcpublishing.com
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,voachinese.com
