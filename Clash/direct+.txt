@@ -2,3 +2,9 @@
 DOMAIN,outlook.office365.com
 DOMAIN,outlook.live.com
 DOMAIN,outlook.office.com
+
+# > Samsung
+DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsung.com.cn
+DOMAIN-SUFFIX,samsungapps.com
+DOMAIN-SUFFIX,samsungosp.com
