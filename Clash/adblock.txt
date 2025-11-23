@@ -2,43 +2,56 @@
 DOMAIN,wspeed.qq.com
 DOMAIN,huatuocode.huatuo.qq.com
 DOMAIN,report.huatuo.qq.com
-DOMAIN,p218-contactsws.icloud.com
+DOMAIN,info6.video.qq.com
+DOMAIN,speedv6.m.jd.com
+DOMAIN,ntp.nasa.gov
+DOMAIN,report.url.cn
 DOMAIN-SUFFIX,jddebug.com
 DOMAIN-SUFFIX,afdback.ppsimg.com
+#  --- 跳过代理检测 ---
+DOMAIN,msmp.abchina.com.cn  
 # --- Advertising & Tracking ---
 # >> Alibaba
-DOMAIN,adashbc.m.taobao.com
+DOMAIN,h-adashx.ut.taobao.com
+DOMAIN,adashbc.ut.taobao.com
+DOMAIN,amap-aos-info-nogw.amap.com
+DOMAIN,optimus-ads.amap.com
+DOMAIN,dualstack-logs.amap.com
+DOMAIN,apoll.m.taobao.com
+DOMAIN,audid-api.taobao.com
+DOMAIN,applog.uc.cn
 # >> Tencent
 DOMAIN,adsmind.gdtimg.com
 DOMAIN,adsmind.ugdtimg.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.ugdtimg.com
 DOMAIN,sdk.e.qq.com
-DOMAIN,mi.gdt.qq.com
-DOMAIN,v.gdt.qq.com
 DOMAIN,btrace.qq.com
 DOMAIN,mtrace.qq.com
 DOMAIN,h.trace.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
 # >> Baidu
-DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN,afd.baidu.com
 DOMAIN,als.baidu.com
 DOMAIN,hm.baidu.com
+DOMAIN,hmma.baidu.com
 DOMAIN,mobads.baidu.com
+DOMAIN,mobads-logs.baidu.com
+DOMAIN,nadvideo2.baidu.com
 DOMAIN,nsclick.baidu.com
 DOMAIN,eclick.baidu.com
 DOMAIN,cpro.baidu.com
 DOMAIN,cpro.baidustatic.com
-DOMAIN,zz.bdstatic.com
+DOMAIN,sofire.bdstatic.com
+DOMAIN,tcbox.baidu.com
+DOMAIN-SUFFIX,pos.baidu.com
 # >> ByteDance
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN,pangolin.snssdk.com
-DOMAIN,is.snssdk.com
-DOMAIN,dig.bdurl.net
 # >> Google
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doubleclick-cn.net
@@ -59,8 +72,13 @@ DOMAIN,adashx.ut.youku.com
 DOMAIN,ggx01.miguvideo.com
 DOMAIN,ggx03.miguvideo.com
 DOMAIN,ggx06.miguvideo.com
+DOMAIN,ggx07.miguvideo.com
 DOMAIN,ggxwb.miguvideo.com
 DOMAIN,stun6.chat.bilibili.com
+# >> 米家
+DOMAIN-SUFFIX,ad.xiaomi.com
+DOMAIN-SUFFIX,ad.intl.xiaomi.com
+DOMAIN,tracking.miui.com
 # >> Kuaishou
 DOMAIN,open.e.kuaishou.cn
 DOMAIN,open.e.kuaishou.com
@@ -80,7 +98,6 @@ DOMAIN-SUFFIX,get.sogou.com
 DOMAIN-SUFFIX,sginput.qq.com
 DOMAIN,ntp.msn.cn
 DOMAIN,emdcadvertise.eastmoney.com
-DOMAIN,zhihu-web-analytics.zhihu.com
 DOMAIN,g1.163.com
 DOMAIN,nex.163.com
 DOMAIN,mixer.sina.cn
@@ -90,6 +107,11 @@ DOMAIN,ads.chinadaily.com.cn
 DOMAIN,adx.36kr.com
 DOMAIN,g1.tagtic.cn
 DOMAIN,goblin.hupu.com
+DOMAIN,mqtt.zhihu.com
+DOMAIN,sugar.zhihu.com
+DOMAIN,zhihu-web-analytics.zhihu.com
+IP-CIDR,103.41.167.237/32,no-resolve
+IP-CIDR,118.89.204.198/32,no-resolve
 # >> General
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,amazon-adsystem.com
