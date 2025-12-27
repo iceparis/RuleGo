@@ -116,6 +116,7 @@ IP-CIDR,118.89.204.198/32,no-resolve
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,adnxs.com
+DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,nr-data.net
 DOMAIN-SUFFIX,adsrvr.org
