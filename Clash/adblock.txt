@@ -98,6 +98,8 @@ DOMAIN-SUFFIX,get.sogou.com
 DOMAIN-SUFFIX,sginput.qq.com
 DOMAIN,ntp.msn.cn
 DOMAIN,emdcadvertise.eastmoney.com
+DOMAIN,adstrategy.biz.weibo.com
+DOMAIN,bootpreload.uve.weibo.com
 DOMAIN,g1.163.com
 DOMAIN,nex.163.com
 DOMAIN,mixer.sina.cn
